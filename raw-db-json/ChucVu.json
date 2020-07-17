@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "5f003653a0704da14948efc4"
+  },
+  "maChucVu": "kiểu Int",
+  "tenChucVu": "kiểu String (Trưởng phòng | Phó Phòng | Trưởng Khoa | Phó Khoa | ...)",
+  "loaiDonVi": "kiểu String (Chức vụ này thuộc đơn vị nào)",
+  "nguoiTao": "mã trong bảng Giáo Viên",
+  "nguoiChinhSua": "mã trong bảng Giáo Viên",
+  "ngayChinhSua": "kiểu DateTime",
+  "trangThai": "kiểu Int"
+}]

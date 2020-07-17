@@ -6,6 +6,7 @@
   "ho": "kiểu String",
   "ten": "kiểu String",
   "maBoMon": "mã trong bảng Bộ Môn",
+  "CMND": "kiểu String",
   "chucVu": [
     {
       "maChucVu": "mã trong bảng Chức Vụ",

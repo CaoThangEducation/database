@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "5efe03c8f30afb6ea1ceeae6"
+  },
+  "maBac": "kiểu String",
+  "tenBac": "kiểu String",
+  "tenVietTat": "kiểu String",
+  "nguoiTao": "mã trong bảng Giáo Viên",
+  "nguoiChinhSua": "mã trong bảng Giáo Viên",
+  "ngayChinhSua": "kiểu DateTime",
+  "trangThai": "kiểu Int"
+}]

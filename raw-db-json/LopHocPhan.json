@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "5efea7154d42581818be10bc"
+  },
+  "maLopHocPhan": "kiểu Int (tăng tự động)",
+  "tenLopHocPhan": "tên trong bảng Lớp Học + mã Lớp Học Phần",
+  "maLopHoc": "mã trong bảng Lớp Học",
+  "maDaoTao": "mã trong bảng Kế Hoạch Đào Tạo",
+  "hocKi": "kiểu Int (Học kì thực tế mở Lớp Học Phần)",
+  "soLuongToiDa": "kiểu Int (Số lượng sinh viên tối đa của Lớp Học Phần)",
+  "loaiLopHocPhan": "kiểu String (Lớp Bình Thường | Lớp Học Ghép | Lớp Học Kì Phụ | ...)",
+  "tinhTrangNopDiem": "kiểu Int",
+  "nguoiTao": "mã trong bảng Giáo Viên",
+  "nguoiChinhSua": "mã trong bảng Giáo Viên",
+  "ngayChinhSua": "kiểu DateTime",
+  "trangThai": "kiểu Int"
+}]

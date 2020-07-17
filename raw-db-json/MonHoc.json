@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "5efe0479f30afb6ea1ceeae7"
+  },
+  "maMonHoc": "kiểu String (gồm 4 kí tự, số tăng tự động)",
+  "tenMonHoc": "kiểu String",
+  "tenVietTat": "kiểu String",
+  "loaiMonHoc": "kiểu String (Thực hành | Lý Thuyết | Module | Tốt nghiệp | ...)",
+  "tenTiengAnh": "kiểu String",
+  "tenVietTatTiengAnh": "kiểu String",
+  "nguoiTao": "mã trong bảng Giáo Viên",
+  "nguoiChinhSua": "mã trong bảng Giáo Viên",
+  "ngayChinhSua": "kiểu DateTime",
+  "trangThai": "kiểu Int"
+}]

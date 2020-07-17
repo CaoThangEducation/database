@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "5efeac474d42581818be10c4"
+  },
+  "maThongBao": "kiểu String",
+  "noiDungThongBao": "kiểu String",
+  "maLopHocPhan": "mã trong bảng Lớp Học Phần",
+  "maChuDe": "mã trong bảng Chủ Đề Lớp Học Phần",
+  "loaiThongBao": "kiểu String (TB bình thường | TB bài giảng | TB bài kiểm tra | ...)",
+  "thoiGianThongBao": "kiểu DateTime",
+  "nguoiTao": "mã giáo viên trong bảng Giáo Viên",
+  "thoiGianTao": "kiểu DateTime"
+}]

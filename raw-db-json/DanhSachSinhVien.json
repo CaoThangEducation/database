@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "5efea8c64d42581818be10bd"
+  },
+  "maSinhVien": "mã trong bảng Sinh Viên",
+  "maLopHocPhan": "mã trong bảng Lớp Học Phần",
+  "maDaoTao": "mã trong bảng Kế Hoạch Đào Tạo",
+  "diemChuyenCan": "kiểu Double",
+  "diemTrungBinhKiemTra": "kiểu Double",
+  "diemThiLan1": "kiểu Double",
+  "diemTongKetLan1": "kiểu Double",
+  "diemThiLan2": "kiểu Double",
+  "diemTongKetLan2": "kiểu Double",
+  "diemTongKet": "kiểu Double (điểm Tổng Kết cao nhất của Lần 1 và Lần 2)",
+  "ghiChu": "kiểu String (Đậu | Rớt | ...)",
+  "nguoiTao": "mã trong bảng Giáo Viên",
+  "nguoiChinhSua": "mã trong bảng Giáo Viên",
+  "ngayChinhSua": "kiểu DateTime",
+  "trangThai": "kiểu Int"
+}]

@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "5efe06c5f30afb6ea1ceeae9"
+  },
+  "maChuongTrinhDaoTao": "mã Bậc + mã Ngành Nghề + Khoá Học + mã Loại Hình Đào Tạo",
+  "maBac": "mã trong bảng Bậc",
+  "maNganhNghe": "mã trong bảng Ngành Nghề",
+  "khoaHoc": "kiểu Int (2016, 2017, 2018,...)",
+  "maLoaiHinhDaoTao": "mã trong bảng Loại Hình Đào Tạo",
+  "soHocKi": "kiểu Int",
+  "chiTieu": "kiểu Int",
+  "nguoiTao": "mã trong bảng Giáo Viên",
+  "nguoiChinhSua": "mã trong bảng Giáo Viên",
+  "ngayChinhSua": "kiểu DateTime",
+  "trangThai": "kiểu Int"
+}]
