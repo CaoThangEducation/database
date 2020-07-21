@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "5f176752377f4bfb1cc0e100"
+  },
+  "maDanhMuc": "about",
+  "tenDanhMuc": "Giới thiệu",
+  "icon": "mdi mdi-information-outline",
+  "url": "/about"
+},{
+  "_id": {
+    "$oid": "5f1767e536cb180e4480265e"
+  },
+  "maDanhMuc": "thongbao",
+  "tenDanhMuc": "Thông Báo",
+  "icon": "mdi mdi-bell-circle-outline",
+  "url": "/thong-bao"
+},{
+  "_id": {
+    "$oid": "5f17681636cb180e4480265f"
+  },
+  "maDanhMuc": "sinhvien",
+  "tenDanhMuc": "Sinh viên",
+  "icon": "mdi mdi-school-outline",
+  "url": "/sinh-vien"
+}]

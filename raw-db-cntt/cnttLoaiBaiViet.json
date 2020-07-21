@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "5f175fc0377f4bfb1cc0e0fd"
+  },
+  "maLoaiBaiViet": "loaiBaiViet01",
+  "tenLoaiBaiViet": "Thông báo",
+  "tenVietTat": "TB"
+},{
+  "_id": {
+    "$oid": "5f17659c36cb180e44802659"
+  },
+  "maLoaiBaiViet": "loaiBaiViet02",
+  "tenLoaiBaiViet": "Bài Viết nổi bật",
+  "tenVietTat": "NB"
+},{
+  "_id": {
+    "$oid": "5f1765b436cb180e4480265a"
+  },
+  "maLoaiBaiViet": "loaiBaiViet03",
+  "tenLoaiBaiViet": "Tài liệu",
+  "tenVietTat": "TL"
+},{
+  "_id": {
+    "$oid": "5f1765c836cb180e4480265b"
+  },
+  "maLoaiBaiViet": "loaiBaiViet04",
+  "tenLoaiBaiViet": "Việc làm",
+  "tenVietTat": "VL"
+},{
+  "_id": {
+    "$oid": "5f1765e736cb180e4480265c"
+  },
+  "maLoaiBaiViet": "loaiBaiViet05",
+  "tenLoaiBaiViet": "Bài viết",
+  "tenVietTat": "BV"
+}]
