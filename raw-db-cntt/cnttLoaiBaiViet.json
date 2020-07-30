@@ -1,36 +1,61 @@
 [{
   "_id": {
-    "$oid": "5f175fc0377f4bfb1cc0e0fd"
+    "$oid": "5f2291b6e260953ba46dcef9"
   },
-  "maLoaiBaiViet": "loaiBaiViet01",
+  "maLoaiBaiViet": "LBV00",
   "tenLoaiBaiViet": "Thông báo",
-  "tenVietTat": "TB"
+  "tenVietTat": "thongbao",
+  "trangThai": 1,
+  "createdAt": {
+    "$date": "2020-07-30T09:24:06.281Z"
+  },
+  "updatedAt": {
+    "$date": "2020-07-30T09:24:06.281Z"
+  },
+  "__v": 0
 },{
   "_id": {
-    "$oid": "5f17659c36cb180e44802659"
+    "$oid": "5f2291c5e260953ba46dcefa"
   },
-  "maLoaiBaiViet": "loaiBaiViet02",
-  "tenLoaiBaiViet": "Bài Viết nổi bật",
-  "tenVietTat": "NB"
-},{
-  "_id": {
-    "$oid": "5f1765b436cb180e4480265a"
-  },
-  "maLoaiBaiViet": "loaiBaiViet03",
-  "tenLoaiBaiViet": "Tài liệu",
-  "tenVietTat": "TL"
-},{
-  "_id": {
-    "$oid": "5f1765c836cb180e4480265b"
-  },
-  "maLoaiBaiViet": "loaiBaiViet04",
-  "tenLoaiBaiViet": "Việc làm",
-  "tenVietTat": "VL"
-},{
-  "_id": {
-    "$oid": "5f1765e736cb180e4480265c"
-  },
-  "maLoaiBaiViet": "loaiBaiViet05",
+  "maLoaiBaiViet": "LBV01",
   "tenLoaiBaiViet": "Bài viết",
-  "tenVietTat": "BV"
+  "tenVietTat": "baiviet",
+  "trangThai": 1,
+  "createdAt": {
+    "$date": "2020-07-30T09:24:21.492Z"
+  },
+  "updatedAt": {
+    "$date": "2020-07-30T09:24:21.492Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f2291cee260953ba46dcefb"
+  },
+  "maLoaiBaiViet": "LBV02",
+  "tenLoaiBaiViet": "Việc làm",
+  "tenVietTat": "vieclam",
+  "trangThai": 1,
+  "createdAt": {
+    "$date": "2020-07-30T09:24:30.744Z"
+  },
+  "updatedAt": {
+    "$date": "2020-07-30T09:24:30.744Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f2291d5e260953ba46dcefc"
+  },
+  "maLoaiBaiViet": "LBV03",
+  "tenLoaiBaiViet": "Tài liệu",
+  "tenVietTat": "tailieu",
+  "trangThai": 1,
+  "createdAt": {
+    "$date": "2020-07-30T09:24:37.147Z"
+  },
+  "updatedAt": {
+    "$date": "2020-07-30T09:24:37.147Z"
+  },
+  "__v": 0
 }]
